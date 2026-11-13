@@ -196,4 +196,4 @@ This repository serves as the official landing page for Aerotis. The software is
 **Get the most recent version of Aerotis today!**
 
 ---
-**Last updated:** 2026-11-13 05:31:54 UTC
+**Last updated:** 2026-11-13 14:05:31 UTC
